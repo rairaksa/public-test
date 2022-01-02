@@ -1,0 +1,21 @@
+{
+    "name": "rai/excel-validate",
+    "authors": [
+        {
+            "name": "Rai Raksa M",
+            "email": "rairaksa7@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/avana/excel",
+            "options": {
+                "symlink": false
+            }
+        }
+    ],
+    "require": {
+        "avana/excel": "dev-master"
+    }
+}
